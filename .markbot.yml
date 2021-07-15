@@ -1,0 +1,15 @@
+repo: "css-validation-fixes"
+canvasCourse: "web-design-1"
+
+inherit:
+  - naming-restrict-live
+  - git-2
+  - html
+  - css
+  - border-box
+
+html:
+  - path: "index.html"
+
+css:
+  - path: "css/main.css"
